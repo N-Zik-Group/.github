@@ -12,7 +12,18 @@ Building, maintaining, and supporting projects focused on music streaming, user 
 
 <br>
 
-<a href="https://devglobe.app/projects/n-zik"><img src="https://devglobe.app/badges/launched-on-devglobe-dark.svg" alt="Launched on DevGlobe" width="200" /></a>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://devglobe.app/projects/n-zik"><img src="https://devglobe.app/badges/launched-on-devglobe-dark.svg" alt="N-Zik on DevGlobe" width="200" /></a><br />
+      N-Zik · Android
+    </td>
+    <td align="center" valign="top">
+      <a href="https://devglobe.app/projects/n-zik-desktop-compagnon"><img src="https://devglobe.app/badges/launched-on-devglobe-dark.svg" alt="N-Zik Desktop Compagnon on DevGlobe" width="200" /></a><br />
+      N-Zik Desktop Compagnon · Windows &amp; Linux
+    </td>
+  </tr>
+</table>
 
 🌐 [n-zik.vercel.app](https://n-zik.vercel.app/)
 
