@@ -8,7 +8,6 @@ An open-source organization dedicated to the development of **N-Zik** and its ec
 
 Building, maintaining, and supporting projects focused on music streaming, user experience, localization, automation, and community-driven innovation.
 
-[![Star N-Zik](https://img.shields.io/github/stars/N-Zik-Group/N-Zik?style=social)](https://github.com/N-Zik-Group/N-Zik)
 [![Discord](https://discord.com/api/guilds/1345079801324634193/widget.png?style=shield)](https://discord.gg/bneHC7QRje)
 [![Localization Progress](https://badges.crowdin.net/N-Zik/localized.svg)](https://crowdin.com/project/N-Zik)
 [![License: GPL v3](https://img.shields.io/github/license/N-Zik-Group/N-Zik?color=blue)](https://www.gnu.org/licenses/gpl-3.0)
