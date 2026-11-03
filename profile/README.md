@@ -40,6 +40,22 @@ Building, maintaining, and supporting projects focused on music streaming, user 
 | 🎮 [**DiscordRPC**](https://github.com/N-Zik-Group/DiscordRPC) | A standalone Discord Rich Presence client for Android. |
 | 📊 [**Next-Visualizer**](https://github.com/N-Zik-Group/Next-Visualizer) | An audio visualizer library: FFT bars, waves, particles, and more. |
 
+## 🌐 Translations
+
+### Overall
+
+[![Overall](https://crowdin-stats.rewake.org/embed/29f72ed2-fc01-4570-8c8f-3e6e9acbaf0c/overall.svg?unit=strings&theme=dark&bg=transparent&text=f4efff&muted=b8a9ca&accent=8d5cff&border=transparent)](https://crowdin.com/project/N-Zik)
+
+### Translation Progress
+
+[![Translation Progress](https://crowdin-stats.rewake.org/embed/29f72ed2-fc01-4570-8c8f-3e6e9acbaf0c/table.svg?theme=dark&bg=transparent&text=f4efff&muted=b8a9ca&accent=8d5cff&border=transparent)](https://crowdin.com/project/N-Zik)
+
+### Contributors
+
+[![Contributors](https://crowdin-stats.rewake.org/embed/29f72ed2-fc01-4570-8c8f-3e6e9acbaf0c/contributors.svg?limit=100&unit=strings&avatarSize=35&theme=dark&bg=transparent&text=f4efff&muted=b8a9ca&accent=8d5cff&border=transparent)](https://crowdin.com/project/N-Zik)
+
+[![Translated with Crowdin](https://badges.crowdin.net/badge/light/crowdin-on-dark.png)](https://crowdin.com/project/N-Zik)
+
 ## 🌍 Community
 
 - 🌐 Official website: [n-zik.vercel.app](https://n-zik.vercel.app/)
