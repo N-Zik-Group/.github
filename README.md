@@ -1,3 +1,7 @@
+# 👀 Status
+
+This repository hosts the organization profile.
+
 # 👥 Contributors
 
 [![GitHub contributors](https://contrib.rocks/image?repo=N-Zik-Group/.github)](https://github.com/N-Zik-Group/.github/graphs/contributors)
