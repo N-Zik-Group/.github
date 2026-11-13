@@ -62,6 +62,10 @@ Building, maintaining, and supporting projects focused on music streaming, user 
 - 💬 Discord: [discord.gg/bneHC7QRje](https://discord.gg/bneHC7QRje)
 - 🌍 Translations: [crowdin.com/project/N-Zik](https://crowdin.com/project/N-Zik)
 
+# 👥 Contributors
+
+[![GitHub contributors](https://contrib.rocks/image?repo=N-Zik-Group/.github)](https://github.com/N-Zik-Group/.github/graphs/contributors)
+
 # 🎖️ Credits
 
 **[View N-Zik credits and licenses](https://github.com/N-Zik-Group/N-Zik/blob/main/ComposeN-Zik/src/androidMain/res/raw/credits.md)**
