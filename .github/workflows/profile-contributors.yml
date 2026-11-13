@@ -23,7 +23,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           python3 .github/scripts/profile-contributors.py
-          git add -- profile/README.md
+          git add -- README.md profile/README.md
           if git diff --cached --quiet; then exit 0; fi
           git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'docs: refresh organization profile contributors [skip ci]'
           git push origin HEAD:refs/heads/main

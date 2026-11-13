@@ -47,7 +47,8 @@ for repo in repos:
             rows.append((user["login"], user["html_url"], user["avatar_url"]))
 if not rows:
     raise SystemExit("No contributors returned")
-text = replace(text, marker, grid(rows))
+avatar_grid = grid(rows)
+text = replace(text, marker, avatar_grid)
 if "<!-- crowdin-contributors:start -->" in text:
     url = "https://raw.githubusercontent.com/N-Zik-Group/N-Zik/main/ComposeN-Zik/src/androidMain/res/raw/translators.json"
     with urlopen(url, timeout=25) as response:
@@ -57,3 +58,7 @@ if "<!-- crowdin-contributors:start -->" in text:
         raise SystemExit("No Crowdin translators returned")
     text = replace(text, "crowdin-contributors", grid(rows))
 path.write_text(text, encoding="utf-8", newline="\n")
+
+root_readme = Path("README.md")
+root_text = root_readme.read_text(encoding="utf-8")
+root_readme.write_text(replace(root_text, marker, avatar_grid), encoding="utf-8", newline="\n")
