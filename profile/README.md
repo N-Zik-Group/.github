@@ -64,7 +64,7 @@ Building, maintaining, and supporting projects focused on music streaming, user 
 
 # 👀 Status
 
-This repository hosts the organization profile.
+[![Refresh organization profile contributors](https://github.com/N-Zik-Group/.github/actions/workflows/profile-contributors.yml/badge.svg)](https://github.com/N-Zik-Group/.github/actions/workflows/profile-contributors.yml)
 
 # 👥 Contributors
 
