@@ -1,0 +1,29 @@
+name: Refresh organization profile contributors
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '43 5 * * 1'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: organization-profile-contributors-main
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: Refresh contributor grid
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 .github/scripts/profile-contributors.py
+          git add -- profile/README.md
+          if git diff --cached --quiet; then exit 0; fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'docs: refresh organization profile contributors [skip ci]'
+          git push origin HEAD:refs/heads/main
