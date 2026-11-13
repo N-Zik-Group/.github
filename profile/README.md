@@ -35,6 +35,7 @@ Building, maintaining, and supporting projects focused on music streaming, user 
 | --- | --- |
 | 🎧 [**N-Zik**](https://github.com/N-Zik-Group/N-Zik) | A multilingual, open-source Android app that streams YouTube Music, with performance improvements, UI/UX refinement, and long-term support. |
 | 🖥️ [**N-Zik Desktop Compagnon**](https://github.com/N-Zik-Group/N-Zik-Desktop-Compagnon) | The desktop companion for Windows and Linux: controls your phone's library and playback from a large screen. |
+| 🎨 [**N-Zik Theme Store**](https://github.com/N-Zik-Group/N-Zik-Theme-Store) | The public catalog of community themes for N-Zik on Android. |
 | 🌐 [**N-Zik Website**](https://github.com/N-Zik-Group/N-Zik-Website) | The official website: a zero-build, multilingual static site. |
 | 📜 [**Better-Lyrics**](https://github.com/N-Zik-Group/Better-Lyrics) | A library for parsing and managing TTML lyrics, with word-by-word synchronization. |
 | 🎮 [**DiscordRPC**](https://github.com/N-Zik-Group/DiscordRPC) | A standalone Discord Rich Presence client for Android. |
