@@ -70,6 +70,6 @@ Building, maintaining, and supporting projects focused on music streaming, user 
 
 <div align="center">
 
-Made with ❤️ by the N-Zik Group community · Licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0)
+Made with ❤️ by the N-Zik Group community · Licensed under GPLv3 - see [LICENSE](https://github.com/N-Zik-Group/N-Zik/blob/main/LICENSE)
 
 </div>
